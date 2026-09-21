@@ -1,1 +1,1 @@
--updated -BishopIp=43.250.32.227 -BishopPort=7451 -Channel= -ChannelPara= -PlatformCode=0 -use_mat_pro=-4663 -use_np_pro=-4663 -newnetlib -EnableRT -AsynDelayLoad -OPENGAMEREPORT Netpas_Fazhi=60 -EADL -NSC -newnetlib -NetEnableRT -tk -C7433 -SDR -C7721 -GuardChangingViewPort -lbkk -RDX -cef=1 -NetEnableGPUSkin
+-updated -BishopIp=43.250.32.227 -BishopPort=7451
