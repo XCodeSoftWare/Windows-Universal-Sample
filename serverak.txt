@@ -1,1 +1,1 @@
--updated -BishopIp=118.67.202.136 -BishopPort=7451
+-updated -BishopIp=118.67.202.136 -BishopPort=7451 -Channel= -ChannelPara= -PlatformCode=0 -use_mat_pro=13127 -use_np_pro=13127 -DisableRT -AsynDelayLoad -OPENGAMEREPORT Netpas_Fazhi=60 -EADL -NSC -newnetlib -NetEnableRT   -C7433 -SDR -C7721 -RDX -GuardChangingViewPort -lbkk
